@@ -1,6 +1,6 @@
 <?php
 //Abrindo conrxão com o banco e guardando em uma variavel chamada BD
-$BD = mysqli_connect("localhost", "root", "", "BD2Final");
+$BD = mysqli_connect("localhost", "sistema", "bd2", "BD2Final");
 ?>
 
 <!doctype html>
